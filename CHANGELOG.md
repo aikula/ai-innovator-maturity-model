@@ -1,5 +1,21 @@
 # Changelog
 
+## v0.1.1 — 2026-06-17
+
+Visual Framework Update.
+
+Added visual assets for sharing, presentations, articles, and Zenodo version update:
+
+- two-axis maturity matrix in English and Russian;
+- AI Market Lab loop in English;
+- enterprise-first adoption map in English and Russian;
+- banking AI-Innovator Lab visual in English and Russian;
+- visual assets index.
+
+Recommended release title:
+
+> AI-Innovator Maturity Model v0.1.1 — Visual Framework Update
+
 ## v0.1 — 2026-06-17
 
 Initial public draft.
