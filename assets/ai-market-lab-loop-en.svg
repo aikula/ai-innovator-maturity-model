@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#ffffff"/>
+  <text x="90" y="75" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#111827">AI Market Lab Loop</text>
+  <text x="90" y="118" font-family="Arial, sans-serif" font-size="23" fill="#4b5563">The core loop behind a mature AI-Innovator system</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#111827"/>
+    </marker>
+  </defs>
+
+  <circle cx="800" cy="525" r="285" fill="#f9fafb" stroke="#e5e7eb" stroke-width="3"/>
+
+  <g font-family="Arial, sans-serif">
+    <g>
+      <rect x="680" y="175" width="240" height="72" rx="14" fill="#eef2ff" stroke="#6366f1" stroke-width="2"/>
+      <text x="800" y="219" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">Data</text>
+    </g>
+    <g>
+      <rect x="1010" y="305" width="260" height="72" rx="14" fill="#ecfeff" stroke="#06b6d4" stroke-width="2"/>
+      <text x="1140" y="349" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">Evidence Store</text>
+    </g>
+    <g>
+      <rect x="1060" y="545" width="270" height="72" rx="14" fill="#f0fdf4" stroke="#22c55e" stroke-width="2"/>
+      <text x="1195" y="589" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">Hypotheses</text>
+    </g>
+    <g>
+      <rect x="850" y="745" width="300" height="72" rx="14" fill="#fff7ed" stroke="#f97316" stroke-width="2"/>
+      <text x="1000" y="789" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">Strict Models</text>
+    </g>
+    <g>
+      <rect x="450" y="745" width="300" height="72" rx="14" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+      <text x="600" y="789" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">Behavioral Agents</text>
+    </g>
+    <g>
+      <rect x="250" y="545" width="280" height="72" rx="14" fill="#faf5ff" stroke="#a855f7" stroke-width="2"/>
+      <text x="390" y="589" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">Monte Carlo</text>
+    </g>
+    <g>
+      <rect x="300" y="305" width="280" height="72" rx="14" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+      <text x="440" y="349" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">Microtests</text>
+    </g>
+  </g>
+
+  <path d="M 920 211 C 1000 220 1075 260 1120 305" fill="none" stroke="#111827" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M 1215 377 C 1260 425 1270 500 1235 545" fill="none" stroke="#111827" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M 1160 617 C 1110 690 1050 720 1010 745" fill="none" stroke="#111827" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M 850 781 C 800 820 740 820 750 781" fill="none" stroke="#111827" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M 450 781 C 390 720 365 670 390 617" fill="none" stroke="#111827" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M 330 545 C 300 480 330 415 405 377" fill="none" stroke="#111827" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M 520 305 C 590 240 650 220 680 211" fill="none" stroke="#111827" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <rect x="610" y="430" width="380" height="160" rx="18" fill="#111827"/>
+  <text x="800" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">AI-Innovator</text>
+  <text x="800" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#d1d5db">explores opportunity spaces</text>
+  <text x="800" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#d1d5db">before large commitments</text>
+
+  <text x="90" y="920" font-family="Arial, sans-serif" font-size="22" fill="#374151">Not a single forecast. A learning loop: evidence, models, agents, probability, tests, and calibration.</text>
+</svg>
