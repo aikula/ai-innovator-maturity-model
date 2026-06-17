@@ -4,6 +4,8 @@
 
 Initial public draft.
 
+DOI: https://doi.org/10.5281/zenodo.20737884
+
 Includes:
 
 - bilingual README;
@@ -15,4 +17,4 @@ Includes:
 - service facility demo concept;
 - visual maturity ladder SVGs;
 - Mermaid architecture map;
-- citation file for future DOI release.
+- citation file with Zenodo DOI.
