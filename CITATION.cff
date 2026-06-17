@@ -6,6 +6,7 @@ authors:
     given-names: Andrey
     affiliation: Kulinich.AI
 version: "0.1"
+doi: "10.5281/zenodo.20737884"
 date-released: "2026-06-17"
 license: "CC-BY-4.0"
 abstract: "A bilingual maturity model for AI systems that move beyond task execution and into market, product, and business model innovation through evidence, simulation, experimentation, and learning."
