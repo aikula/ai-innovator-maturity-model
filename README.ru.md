@@ -5,6 +5,7 @@
 **Автор:** Андрей Кулинич / Kulinich.AI  
 **Версия:** v0.1 public draft  
 **Дата:** 2026-06-17  
+**DOI:** [10.5281/zenodo.20737884](https://doi.org/10.5281/zenodo.20737884)  
 **Языки:** английский и русский  
 **Статус:** концептуальная рамка, не бенчмарк и не заявление об AGI
 
@@ -91,9 +92,9 @@
 
 ## Как цитировать
 
-Используйте release репозитория или будущий DOI.
+Используйте DOI-релиз:
 
-> Kulinich, A. (2026). *AI-Innovator Maturity Model v0.1: From Idea Generation to Self-Learning Market Labs*. Kulinich.AI.
+> Kulinich, A. (2026). *AI-Innovator Maturity Model v0.1: From Idea Generation to Self-Learning Market Labs*. Kulinich.AI. https://doi.org/10.5281/zenodo.20737884
 
 Файл `CITATION.cff` включён для интеграции GitHub и Zenodo.
 
@@ -117,4 +118,4 @@
 - банковский и SPA-сценарий симуляции;
 - метрики калибровки прогноза;
 - усиленный related work;
-- DOI-релиз через Zenodo.
+- доработка DOI-метаданных и публикационного пакета.
