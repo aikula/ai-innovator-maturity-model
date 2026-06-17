@@ -54,11 +54,17 @@ Without that loop, they are just chatbots wearing a strategy-consulting costume.
 - [Banking AI-Innovator Lab](examples/banking-ai-innovator-lab.md)
 - [SPA Market Lab Demo Concept](examples/spa-market-lab-demo.md)
 
-### Visuals
+### Visual framework assets
 
-- [Maturity ladder SVG](assets/maturity-ladder-en.svg)
-- [Лестница зрелости SVG](assets/maturity-ladder-ru.svg)
-- [Architecture map Mermaid](assets/architecture-map.mmd)
+- [Maturity ladder EN](assets/maturity-ladder-en.svg)
+- [Maturity ladder RU](assets/maturity-ladder-ru.svg)
+- [Two-axis matrix EN](assets/two-axis-matrix-en.svg)
+- [Two-axis matrix RU](assets/two-axis-matrix-ru.svg)
+- [AI Market Lab Loop EN](assets/ai-market-lab-loop-en.svg)
+- [Enterprise-first map EN](assets/enterprise-first-map-en.svg)
+- [Enterprise-first map RU](assets/enterprise-first-map-ru.svg)
+- [Banking AI-Innovator Lab EN](assets/banking-ai-innovator-lab-en.svg)
+- [Banking AI-Innovator Lab RU](assets/banking-ai-innovator-lab-ru.svg)
 
 ---
 
