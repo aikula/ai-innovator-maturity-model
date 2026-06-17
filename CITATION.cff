@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "AI-Innovator Maturity Model v0.1: From Idea Generation to Self-Learning Market Labs"
+authors:
+  - family-names: Kulinich
+    given-names: Andrey
+    affiliation: Kulinich.AI
+version: "0.1"
+date-released: "2026-06-17"
+license: "CC-BY-4.0"
+abstract: "A bilingual maturity model for AI systems that move beyond task execution and into market, product, and business model innovation through evidence, simulation, experimentation, and learning."
+keywords:
+  - AI-Innovator
+  - AI agents
+  - market simulation
+  - business model innovation
+  - hypothesis testing
+  - Monte Carlo
+  - enterprise AI
+  - strategy
